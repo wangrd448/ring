@@ -1,0 +1,10 @@
+
+-(NSArray *)walletAddCompanyArr{
+    
+    return @[@"134sutgJA9DbRzYWecBYvtnrrov91MREJs7MkPUEGiHUCEJwVfE",
+             @"135v1Xea1sZC2EMTZZVNexCbS3fhvcy81gM3p87c3LmyaCvQt6e",
+             @"14QRh3cUVNpBp43ZwRhx1VC4t6U14F46UBTAR5tXkGCQVkMihKB",
+             @"14WaivUi3SKimVK4cySxsEYax6ToQdF9396JVAhHvhs5oc99mqb",
+             @"14XW3HRNDbHXCeDU7yxkhw1amfNE6pFB6QCsHGW2bh4bcWcyYdR"];
+    
+}
